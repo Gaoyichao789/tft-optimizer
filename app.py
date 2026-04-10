@@ -3,7 +3,7 @@ import pandas as pd
 from io import BytesIO
 import tempfile
 import os
-from tft_solver import load_tft_data, solve_tft   # 你的两个函数
+from tft_solver import load_tft_data, solve_tft   # 我的两个函数
 
 st.set_page_config(page_title="TFT 阵容优化器", layout="wide")
 st.title("☁️ 云顶之弈 Super大瑞兹阵容优化器")
